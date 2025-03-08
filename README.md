@@ -1,5 +1,5 @@
 # barebones-reactiv-lua-framework
-A barebones framework that contains reactive streams and signals. The signals have the same operators (map, filter etc.) as streams and also have onEvent function (which you can think of as a onChange function).
+A barebones framework for roblox that contains reactive streams and signals. The signals have the same operators (map, filter etc.) as streams and also have onEvent function (which you can think of as a onChange function).
 
 ### Importing
 A code example best demonstrates this:
